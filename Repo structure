@@ -1,0 +1,18 @@
+devops-helper/
+├─ .github/
+│ ├─ workflows/ci.yml
+│ └─ ISSUE_TEMPLATE.md
+├─ docker/
+│ └─ Dockerfile
+├─ src/
+│ └─ devops_helper/
+│ ├─ __init__.py
+│ └─ cli.py
+├─ tests/
+│ └─ test_cli.py
+├─ .gitignore
+├─ README.md
+├─ CONTRIBUTING.md
+├─ LICENSE
+├─ requirements.txt
+└─ pyproject.toml
